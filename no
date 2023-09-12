@@ -1,0 +1,29 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 523903a..e76aed0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,24 +6,5 @@[m
+ </head>[m
+ <body>[m
+ <h1>SIT223-SIT753 - Professional Practice in IT</h1>[m
+[31m-<h2>Unit details</h2>[m
+[31m-<table style="width:100%">[m
+[31m-    <tr>[m
+[31m-        <td>Year:</td>[m
+[31m-        <td>2023 unit information</td>[m
+[31m-    </tr>[m
+[31m-    <tr>[m
+[31m-        <td>Enrolment modes:</td>[m
+[31m-        <td>Trimester 1: Burwood (Melbourne), Geelong, Cloud (online)</td>[m
+[31m-    </tr>[m
+[31m-    <tr>[m
+[31m-        <td>Credit point(s):</td>[m
+[31m-        <td>1</td>[m
+[31m-    </tr>[m
+[31m-    <tr>[m
+[31m-        <td>Unit Chair</td>[m
+[31m-        <td>Trimester 1: Azadeh Ghari Neiat</td>[m
+[31m-    </tr>[m
+[31m-</table>[m
+ </body>[m
+ </html>[m
